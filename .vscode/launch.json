@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - IntroductionAWS",
+            "request": "launch",
+            "mainClass": "introductionaws.IntroductionAWS",
+            "projectName": "introductionAWS_e09f71f1"
+        }
+    ]
+}
